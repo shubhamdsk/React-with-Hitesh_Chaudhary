@@ -1,0 +1,14 @@
+/* App.module.css */
+.appContainer {
+  padding: 40px;
+  font-family: sans-serif;
+  background-color: #f0f2f5;
+  min-height: 100vh;
+  text-align: center;
+}
+
+.header {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: #333;
+}
